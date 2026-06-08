@@ -1,24 +1,54 @@
-## Hi there 👋
-]
-I'm Emmanuel — an IT Security & Networking grad from Ontario Tech building toward a career in cyber security.
+# hey there 👋
 
-I design and break things and document what I learn. Currently targeting help desk, desktop support, and NOC roles across the GTA.
+<p>IT Security & Networking grad from Ontario Tech. I harden networks, break things in homelabs, and document what I learn. Building toward a career in cyber security.</p>
 
-My certifications so far: BTL1 (Blue Team Level 1), studying for Security+ (SY0-701).
+---
 
-tech stack
+🔭 **working on** — CompTIA Security+ (SY0-701)  
+🛡 **certified** — Blue Team Level 1 (BTL1)  
+🗺 **roadmap** — Security+ → SC-200 → HTB CJCA  
+📍 **open to** — help desk · desktop support · NOC · MSPs in GTA  
 
-systems & support
-Active Directory Group Policy Microsoft 365 Entra ID Windows Server Peppermint
+---
 
-networking & security
-pfSense OpenVPN Wireshark Nmap Burp Suite OWASP ZAP iptables
+### 🧰 tech stack
 
-scripting & infra
-PowerShell Bash Linux CLI Docker VMware Linode 
+**systems & support**  
+![Active Directory](https://img.shields.io/badge/Active_Directory-1d4ed8?style=flat-square&logoColor=white)
+![Group Policy](https://img.shields.io/badge/Group_Policy-1d4ed8?style=flat-square&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-1d4ed8?style=flat-square&logoColor=white)
+![Entra ID](https://img.shields.io/badge/Entra_ID-1d4ed8?style=flat-square&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-1d4ed8?style=flat-square&logoColor=white)
+![Peppermint](https://img.shields.io/badge/Peppermint-1d4ed8?style=flat-square&logoColor=white)
 
-📬 reach me
+**networking & security**  
+![pfSense](https://img.shields.io/badge/pfSense-334155?style=flat-square&logoColor=white)
+![OpenVPN](https://img.shields.io/badge/OpenVPN-334155?style=flat-square&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-334155?style=flat-square&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-334155?style=flat-square&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-334155?style=flat-square&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-334155?style=flat-square&logoColor=white)
+![iptables](https://img.shields.io/badge/iptables-334155?style=flat-square&logoColor=white)
 
-emmanuelprada@hotmail.com · LinkedIn
+**scripting & infra**  
+![PowerShell](https://img.shields.io/badge/PowerShell-92400e?style=flat-square&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-92400e?style=flat-square&logoColor=white)
+![Linux CLI](https://img.shields.io/badge/Linux_CLI-92400e?style=flat-square&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-92400e?style=flat-square&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-92400e?style=flat-square&logoColor=white)
+![Linode](https://img.shields.io/badge/Linode-92400e?style=flat-square&logoColor=white)
 
-open to help desk · desktop support · NOC roles · MSPs in GTA
+---
+
+### 📊 by the numbers
+
+![100+ tickets resolved](https://img.shields.io/badge/100%2B_tickets_resolved-grey?style=flat-square)
+![4 yrs IT support](https://img.shields.io/badge/4_yrs_IT_support-grey?style=flat-square)
+![5 pentest domains](https://img.shields.io/badge/5_pentest_domains-grey?style=flat-square)
+![1 critical vuln identified](https://img.shields.io/badge/1_critical_vuln_identified-grey?style=flat-square)
+
+---
+
+### 📬 reach me
+
+📧 emmanuelprada@hotmail.com · [LinkedIn](https://linkedin.com/in/YOUR-PROFILE)
