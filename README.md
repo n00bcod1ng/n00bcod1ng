@@ -6,7 +6,7 @@
 
 🔭 **working on** — CompTIA Security+ (SY0-701)  
 🛡 **certified** — Blue Team Level 1 (BTL1)  
-🗺 **roadmap** — Security+ → SC-200 → HTB CJCA  
+🗺 **roadmap** — Security+ → SC-200 → HTB CPTS  
 📍 **open to** — help desk · desktop support · NOC · MSPs in GTA  
 
 ---
